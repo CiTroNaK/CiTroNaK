@@ -7,7 +7,7 @@
 
 I am a Ruby on Rails developer from the Czech Republic.
 
-## 📚 Latest [Blog](https://petr.codes/) Posts
+## 📚 Latest [Blog](https://petr.codes/blog/) Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Business logic in Rails with operators](https://petr.codes/blog/rails/business-logic-with-operators/)
