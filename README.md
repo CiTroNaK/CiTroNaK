@@ -2,7 +2,6 @@
 
 <p>
   <a rel="me" href="https://ruby.social/@citronak"><img src="https://img.shields.io/badge/Mastodon-%23595aff.svg?&style=for-the-badge&logo=mastodon&logoColor=white" height=25></a>
-  <a href="https://dev.to/citronak"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 </p>
 
 I am a Ruby on Rails developer from the Czech Republic.
