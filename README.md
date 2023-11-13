@@ -9,7 +9,7 @@ I am a Ruby on Rails developer from the Czech Republic.
 ## 📚 Latest [Blog](https://petr.codes/blog/) Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gem Credentials Management with Gemstash](https://petr.codes/blog/ruby/gem-credentials-management-with-gemstash/)
 - [Business logic in Rails with operators](https://petr.codes/blog/rails/business-logic-with-operators/)
 - [Fun with Rails Enums and PORO](https://petr.codes/blog/rails/fun-with-enums-and-poro/)
-- [Multi-Factor Authentication for Rails with WebAuthn and Devise](https://petr.codes/blog/rails/multi-factor-2fa-authentication-rails-webauthn-devise/)
 <!-- BLOG-POST-LIST:END -->
