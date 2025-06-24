@@ -9,7 +9,7 @@ I am a Ruby on Rails developer from the Czech Republic.
 ## 📚 Latest [Blog](https://petr.codes/blog/) Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Versioning API requests](https://petr.codes/blog/rails/versioning-api-requests/)
 - [Flexible API Versioning with Rails](https://petr.codes/blog/rails/flexible-api-versioning-with-rails/)
 - [Gem Credentials Management with Gemstash](https://petr.codes/blog/ruby/gem-credentials-management-with-gemstash/)
-- [Business logic in Rails with operators](https://petr.codes/blog/rails/business-logic-with-operators/)
 <!-- BLOG-POST-LIST:END -->
